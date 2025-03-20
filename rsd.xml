@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+    <service>
+        <engineName>indieMachine</engineName>
+        <engineLink></engineLink>
+        <homePageLink>***FILL THIS IN***</homePageLink>
+        <apis>
+            <api name="MetaWeblog" preferred="true" apiLink="***FILL THIS IN***/edit/" blogID="0">
+        </apis>
+    </service>
+</rsd>
